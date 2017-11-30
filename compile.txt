@@ -1,0 +1,1 @@
+gcc array.c listlinierunit.c listliniervillage.c loadgame.c mesinkar.c mesinkarinput.c mesinkata.c mesinkatainput.c point.c queue.c savegame.c stackt.c init.c turn.c battlesystem.c changeunit.c matriksPeta.c move.c jam.c menu.c recruit.c -o a
